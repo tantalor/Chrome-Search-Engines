@@ -1,0 +1,1 @@
+http://www.google.com/search?btnI&q=site:en.wikipedia.org+%s
